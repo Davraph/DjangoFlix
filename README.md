@@ -1,11 +1,9 @@
 [![DjangoFlix Logo](https://static.codingforentrepreneurs.com/media/projects/djangoflix/images/share/DjangoFlix_Share.jpg)]
 
 # DjangoFlix
+netflix-like service using Django, React.js, &amp; More.
 
-Create a netflix-like service using Django, React.js, &amp; More.
-
-
-## Lectures
+PROJECT LAYOUT
 1 - Welcome - *No code*
 
 2 - Walkthrough - *No code*
