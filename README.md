@@ -1,4 +1,4 @@
-[![DjangoFlix Logo](https://static.codingforentrepreneurs.com/media/projects/djangoflix/images/share/DjangoFlix_Share.jpg)](https://www.codingforentrepreneurs.com/projects/djangoflix)
+[![DjangoFlix Logo](https://static.codingforentrepreneurs.com/media/projects/djangoflix/images/share/DjangoFlix_Share.jpg)]
 
 # DjangoFlix
 
@@ -18,7 +18,7 @@ Create a netflix-like service using Django, React.js, &amp; More.
 
 [6 - Videos App](../../tree/bb59baa8a0e9d64812ca6d53db3ad6be1be8152f/)
 
-7 - Our First Migration & Superuser - *No code*
+7 - First Migration & Superuser - *No code*
 
 [8 - Installing our Model](../../tree/c115c9ca56da01bb91f5b6e98d9632b5a4847456/)
 
