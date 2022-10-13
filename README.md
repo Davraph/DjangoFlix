@@ -5,7 +5,7 @@
 Create a netflix-like service using Django, React.js, &amp; More.
 
 
-## LAYDOWN
+## Lectures
 1 - Welcome - *No code*
 
 2 - Walkthrough - *No code*
@@ -18,11 +18,11 @@ Create a netflix-like service using Django, React.js, &amp; More.
 
 [6 - Videos App](../../tree/bb59baa8a0e9d64812ca6d53db3ad6be1be8152f/)
 
-7 - First Migration & Superuser - *No code*
+7 - Our First Migration & Superuser - *No code*
 
 [8 - Installing our Model](../../tree/c115c9ca56da01bb91f5b6e98d9632b5a4847456/)
 
-[9 -  First TestCase](../../tree/6beee7e5e38001690c16c7abc74559558435287e/)
+[9 - Your First TestCase](../../tree/6beee7e5e38001690c16c7abc74559558435287e/)
 
 [10 - Breaking Tests & Migrations Basics](../../tree/9e82da997669e9939a860ba17dc9ee491dc9d7b9/)
 
