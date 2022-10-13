@@ -3,8 +3,8 @@
 # DjangoFlix
 netflix-like service using Django, React.js, &amp; More.
 
-PROJECT LAYOUT
-1 - Welcome - *No code*
+[PROJECT LAYOUT]
+[1 - Welcome - *No code*
 
 2 - Walkthrough - *No code*
 
